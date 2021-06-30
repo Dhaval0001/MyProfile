@@ -29,3 +29,8 @@ ul{
 	width:20px;
 	height: 20px;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
